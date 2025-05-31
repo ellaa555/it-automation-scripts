@@ -17,7 +17,7 @@ A collection of practical automation scripts for common IT tasks, implemented in
 ### Prerequisites
 
 - Windows, macOS, or Linux environment (tested primarily on macOS)
-- [GitHub]([https://git-scm.com/](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)) installed
+- [GitHub](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop) installed
 - **For Bash scripts:**
   - Run: `chmod +x script-name.sh` to allow execution
 - **For PowerShell scripts:**
