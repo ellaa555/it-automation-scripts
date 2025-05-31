@@ -49,8 +49,8 @@ or for PowerShell:
 ./random-equation.ps1
 ```
 
-### Script Overview
-## Bash Scripts:
+## Script Overview
+### Bash Scripts:
 | Script Name                   | Description                                               |
 | ----------------------------- | --------------------------------------------------------- |
 | `clear-temp.sh`               | Deletes temporary files older than 30 days                |
@@ -61,14 +61,14 @@ or for PowerShell:
 | `mac-system-health-report.sh` | Generates a system health summary report (CPU, RAM, Disk) |
 | `report.txt`                  | Sample output from health report for review               |
 
-## PowerShell Scripts:
+### PowerShell Scripts:
 | Script Name                      | Description                                  |
 | -------------------------------- | -------------------------------------------- |
 | `system-health-report.ps1`       | Gathers system status info for Windows/macOS |
 | `monitor-internetconnection.ps1` | Logs and alerts on internet disconnection    |
 | `random-equation.ps1`            | Generates and solves random math equations   |
 
-## Python Scripts:
+### Python Scripts:
 (TBD)
 
 
