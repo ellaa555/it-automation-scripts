@@ -16,12 +16,20 @@ A collection of practical automation scripts for common IT tasks, implemented in
 
 ### Prerequisites
 
-- macOS or Linux environment (tested primarily on macOS)
+- Windows, macOS, or Linux environment (tested primarily on macOS)
 - [GitHub]([https://git-scm.com/](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)) installed
 - **For Bash scripts:**
   - Run: `chmod +x script-name.sh` to allow execution
 - **For PowerShell scripts:**
-  - Install [PowerShell Core](https://github.com/PowerShell/PowerShell)
+  - Install [PowerShell Core](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.5)
+  - Run scripts using:
+    ```
+    pwsh ./script-name.ps1
+    ```
+    Or on Windows (PowerShell Terminal):
+    ```
+    .\script-name.ps1
+    ```
 
 ---
 
