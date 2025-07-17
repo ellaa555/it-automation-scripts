@@ -21,9 +21,9 @@ tar -czf "$BACKUP_FILE" "$SOURCE_DIR"
 
 # Confirm success
 if [ $? -eq 0 ]; then
-  echo "✅ Backup completed successfully!"
+  echo "Backup completed successfully!"
   echo "Backup saved to: $BACKUP_FILE"
 else
-  echo "❌ Backup failed."
+  echo "Backup failed."
 fi
 
